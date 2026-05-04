@@ -1,0 +1,4 @@
+[values]
+url = "postgres://${db.host}:${db.port}/${db.name}"
+env = "production"
+log_level = "info"
