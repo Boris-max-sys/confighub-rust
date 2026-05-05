@@ -11,7 +11,7 @@ use tracing::{info, warn, error, debug};
 
 use crate::config_store::{SharedConfigStore, ChangeEvent};
 
-pub const SUB_SERVER_PORT: u16 = 7878;
+pub const SUB_SERVER_PORT: u16 = 7879;
 
 struct ClientSession {
     id: u64,

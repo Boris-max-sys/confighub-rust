@@ -1,5 +1,5 @@
 [values]
+port = "5432"
+host = "test.douala.cm"
 user = "admin"
 name = "confighub_db"
-host = "nouvelle.valeur"
-port = "5432"

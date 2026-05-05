@@ -1,4 +1,5 @@
 [values]
+timeout = "30s"
+log_level = "info"
 url = "postgres://${db.host}:${db.port}/${db.name}"
 env = "production"
-log_level = "info"

@@ -25,7 +25,7 @@ use tracing::info;
 use crate::config_store::{SharedConfigStore, ChangeEvent};
 use crate::persistence::ConfigLoader;
 
-pub const HTTP_SERVER_PORT: u16 = 3000;
+pub const HTTP_SERVER_PORT: u16 = 3001;
 
 // --------------------------------------------------------
 // État partagé de l'API

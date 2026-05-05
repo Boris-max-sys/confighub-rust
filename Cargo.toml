@@ -29,3 +29,4 @@ thiserror = "1.0"
 [dev-dependencies]
 tempfile = "3.8"
 tokio-test = "0.4"
+axum-test = "15"
